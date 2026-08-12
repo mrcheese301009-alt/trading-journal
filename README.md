@@ -4,7 +4,7 @@
 
 A lightweight, real-time trading journal and performance analytics dashboard designed for futures, crypto, and FX traders. Built entirely with client-side web technologies and local browser persistence.
 
-🚀 **Live Demo:** [https://mrcheese301009-alt.github.io/trading-journal](https://yourusername.github.io/trading-journal)
+🚀 **Live Demo:** [https://mrcheese301009-alt.github.io/trading-journal](https://mrcheese301009-alt.github.io/trading-journal)
 
 ---
 
